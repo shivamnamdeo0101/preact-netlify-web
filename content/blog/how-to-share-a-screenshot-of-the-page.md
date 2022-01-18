@@ -1,16 +1,68 @@
 ---
 title: How to share a screenshot of the page
 date: 2019-09-07T05:42:28.441Z
-subtitle: If you have ever built an application which needs to take a screenshot of itself, then this blog tells you how to do the same for web.
-cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
-tags: 'technology, javascript'
+subtitle: If you have ever built an application which needs to take a screenshot
+  of itself, then this blog tells you how to do the same for web.
+cover: ""
+tags: technology, javascript
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Nunc sed augue lacus viverra vitae congue eu. At augue eget arcu dictum varius. Et ligula ullamcorper malesuada proin. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mauris in aliquam sem fringilla ut morbi tincidunt. In vitae turpis massa sed elementum tempus egestas. Neque gravida in fermentum et sollicitudin ac orci phasellus. Nibh praesent tristique magna sit amet purus gravida. Nibh sed pulvinar proin gravida hendrerit. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. A iaculis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
+<!--StartFragment-->
 
-Neque vitae tempus quam pellentesque nec nam aliquam sem. Praesent tristique magna sit amet. Blandit massa enim nec dui nunc. Ultrices vitae auctor eu augue ut lectus arcu bibendum at. Mauris augue neque gravida in fermentum et sollicitudin ac. Arcu risus quis varius quam quisque id diam vel. Tortor aliquam nulla facilisi cras fermentum. Sit amet tellus cras adipiscing. Convallis aenean et tortor at risus viverra adipiscing. Porttitor eget dolor morbi non. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Et leo duis ut diam quam. Accumsan sit amet nulla facilisi. Leo urna molestie at elementum eu facilisis sed odio morbi. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Eros in cursus turpis massa tincidunt dui ut ornare. Vel fringilla est ullamcorper eget nulla facilisi. Nec nam aliquam sem et tortor. Eu consequat ac felis donec.
 
-Quis enim lobortis scelerisque fermentum dui faucibus. Pulvinar sapien et ligula ullamcorper malesuada proin. Commodo nulla facilisi nullam vehicula ipsum. Facilisis gravida neque convallis a cras semper. Duis convallis convallis tellus id interdum velit laoreet id donec. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Justo donec enim diam vulputate ut pharetra. Elementum integer enim neque volutpat. Est velit egestas dui id ornare. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Justo nec ultrices dui sapien eget mi proin sed libero. Egestas erat imperdiet sed euismod nisi porta. Facilisis mauris sit amet massa vitae tortor condimentum lacinia. Cursus in hac habitasse platea dictumst quisque sagittis. Amet consectetur adipiscing elit pellentesque habitant morbi.
 
-Morbi tempus iaculis urna id volutpat lacus. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Amet risus nullam eget felis. Sit amet purus gravida quis blandit. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque viverra mauris in aliquam sem fringilla ut. Fringilla urna porttitor rhoncus dolor purus. Id velit ut tortor pretium viverra suspendisse potenti nullam. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Donec enim diam vulputate ut. Mauris a diam maecenas sed enim ut sem.
 
-Fames ac turpis egestas integer eget aliquet nibh praesent. Magna fringilla urna porttitor rhoncus dolor. Mauris commodo quis imperdiet massa tincidunt nunc. Enim sed faucibus turpis in eu mi bibendum. Bibendum enim facilisis gravida neque convallis. Proin fermentum leo vel orci. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Ac felis donec et odio. Mauris a diam maecenas sed enim ut sem viverra aliquet. Sollicitudin nibh sit amet commodo nulla facilisi.
+
+\- [December 08, 2021](https://devshiv.blogspot.com/2021/12/infosys-interview-experience-off-campus.html "permanent link")
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEiZ8hqnEt15VCVk37zBD4ZSito-IVIm3Vay38GwIxoyLQS4Jf4Q-6WNaURj4GOoX0dG37HdsQJ6u7tUi2zLJ2X7eNcghP6Der_-_eT8KY_SLPxj3-wqPAjt5WYjtZgSOcbvfznZ5O3CxKMaON_NANPevVdvRAKiY5-w9MtSAntkGl19OhmpwAegBPe0iA=w640-h360)](https://blogger.googleusercontent.com/img/a/AVvXsEiZ8hqnEt15VCVk37zBD4ZSito-IVIm3Vay38GwIxoyLQS4Jf4Q-6WNaURj4GOoX0dG37HdsQJ6u7tUi2zLJ2X7eNcghP6Der_-_eT8KY_SLPxj3-wqPAjt5WYjtZgSOcbvfznZ5O3CxKMaON_NANPevVdvRAKiY5-w9MtSAntkGl19OhmpwAegBPe0iA=s1920)
+
+Infosys Interview Experience Off-Campus 2021 Requirement
+
+Profile: Operation Executive
+
+Timeline
+
+* Application: Nov Dec 2020
+* InfyTQ Test Scheduled: December 13, 2020 
+* Test Qualified: Apr 7, 2021
+* Interview: April 11, 2021 
+* Results: May 24, 2021
+* Virtual Onboarding Survey Mail: 19 Aug 2021
+
+Online Test Pattern :
+
+1. Section I – Reasoning ability (arithmetic and analytical) (15 ques| 30 minutes)
+2. Section II – Mathematical ability (10 questions | 30 minutes)
+3. Section III – Verbal ability (20 questions | 25 minutes)
+4. Section IV – Numerical puzzle ability (4 questions | 15 minutes)
+
+There is no negative marking.
+
+The total duration of the test is 100 minutes.
+
+Interview 
+
+It was scheduled in the morning just for 25 -30 min something.
+
+1. Introduce Yourself.
+2. Your Project second question is based on what you have mentioned in your first answer to the question “ Tell me about yourself”.
+3. Tech Stack, you have worked on.
+4. Your project in detail.
+
+If you are having your project just make sure you don't forget to share it with the interviewer. I followed some youtube videos for maths reasoning and prepinsta free videos resources. Follow some websites and in the interview just make eye contact with the interviewer and be confident in your answer. I also practiced for 1 month and I was also having projects in react and firebase which helped me a lot in the interview.
+
+Current Openings :
+
+For OE Role for BSC
+
+<https://surveys.infosysapps.com/r/a/Offcampus_NEGDec>
+
+For Diploma
+
+<https://surveys.infosysapps.com/r/a/Offcampus_DiplomaDec>
+
+For BE ME
+
+<https://surveys.infosysapps.com/r/a/Offcampus_SEDec>
+
+<!--EndFragment-->
